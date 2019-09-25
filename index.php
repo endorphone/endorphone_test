@@ -1,6 +1,7 @@
 <?
-	echo 2;
+	echo 23424354;
 
+	function eror;
 
 	echo 3333;
 
